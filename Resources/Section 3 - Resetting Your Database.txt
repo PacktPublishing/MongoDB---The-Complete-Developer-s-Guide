@@ -1,0 +1,6 @@
+Resetting Your Database
+Important: We will regularly start with a clean database server (i.e. all data was purged) in this course.
+
+To get rid of your data, you can simply load the database you want to get rid of (use databaseName) and then execute db.dropDatabase().
+
+Similarly, you could get rid of a single collection in a database via db.myCollection.drop().

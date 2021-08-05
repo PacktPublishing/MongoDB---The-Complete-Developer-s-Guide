@@ -1,0 +1,9 @@
+In this course, we'll also use another tool called mongoimport. It's a tool / local command which we will occasionally use in this course to import some prepared data into a MongoDB database.
+
+Since it wasn't installed together with the MongoDB server + client, you need to install it as a separate tool, following the installation instructions you find here (or use the links below): https://docs.mongodb.com/database-tools/installation/installation/ (these "Database tools" contain the mongoimport tool / command).
+
+Windows Installation: https://docs.mongodb.com/database-tools/installation/installation-windows/#installation
+
+macOS Installation: https://docs.mongodb.com/database-tools/installation/installation-macos/#installation
+
+Linux Installation: https://docs.mongodb.com/database-tools/installation/installation-linux/#installation
