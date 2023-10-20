@@ -1,0 +1,8 @@
+Useful Resources & Links
+Helpful Articles/ Docs:
+
+More on partialFilterExpressions: https://docs.mongodb.com/manual/core/index-partial/
+
+Supported default_languages: https://docs.mongodb.com/manual/reference/text-search-languages/#text-search-languages
+
+How to use different languages in the same index: https://docs.mongodb.com/manual/tutorial/specify-language-for-text-index/#create-a-text-index-for-a-collection-in-multiple-languages

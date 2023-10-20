@@ -1,0 +1,4 @@
+Useful Resources & Links
+The MongoDB Compass Docs: https://docs.mongodb.com/compass/master/install/
+
+Only available in the Enterprise Edition => Exploring Schemas in Compass: https://docs.mongodb.com/compass/master/schema/
