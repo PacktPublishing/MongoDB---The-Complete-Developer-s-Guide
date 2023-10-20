@@ -1,4 +1,0 @@
-Useful Resources & Links
-Helpful Articles/ Docs:
-
-Official Document Deletion Docs: https://docs.mongodb.com/manual/tutorial/remove-documents/

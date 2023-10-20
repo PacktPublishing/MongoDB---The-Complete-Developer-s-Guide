@@ -1,4 +1,0 @@
-Useful Resources & Links
-Useful Articles/ Docs:
-
-Official Docs on Transactions: https://docs.mongodb.com/manual/core/transactions/
